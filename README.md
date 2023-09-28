@@ -31,16 +31,6 @@ npm run dev
 
 This will start the lite-server and open the project in your default browser.
 
-## Contract Deployment
-
-To deploy the smart contract, run the following command:
-
-```
-truffle migrate
-```
-
-This will deploy the smart contract to the local blockchain.
-
 ## Functionality
 
 The main functionality of the project includes:
